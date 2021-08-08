@@ -1,4 +1,4 @@
-# AR_VP_2020_2021
+# AR & VP 2020/2021
 This repository hosts some of the important work I have accomplished (some more complete than others) within the courses of Autonomous Robotics and Visual Perception!
 
 
