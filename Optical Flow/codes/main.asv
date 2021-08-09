@@ -1,0 +1,19 @@
+clear all; clc;
+% im1=imread('cube1.png');
+% im2=imread('cube2.png');
+lambda =5;
+windowSize =5;
+ite=100;
+
+% LucasKanade(im1, im2, windowSize);
+
+
+% Excercise 1 : The Basics 3.
+% im1=imread('dt_001.jpg');           %Hamburg
+% im2=imread('dt_002.jpg');           %Hamburg
+% LucasKanade(im1, im2, windowSize);
+
+im1=imread('pepsi0.pgm');           %Hamburg
+im2=imread('dt_002.jpg');           %Hamburg
+LucasKanade(im1, im2, windowSize);
+
