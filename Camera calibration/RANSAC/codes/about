@@ -1,1 +1,3 @@
+This code was for the RANSAC algorithm.
 
+The RANSAC algorithm simply checks which points (after a set of iteration) that are closest to the line of two points that are set by the user.
